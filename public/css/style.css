@@ -1,0 +1,53 @@
+ion-icon {
+    transform: scale(1.75);
+}
+
+ion-icon:hover {
+    cursor: pointer;
+}
+
+.custom-grey {
+    background-color: #7d848c;
+}
+
+.custom-dark-grey {
+    background-color: #404347;
+}
+
+.custom-yellow {
+    background-color: #f0c438;
+}
+
+.custom-blue {
+    background-color: #22344a;
+}
+
+.border-yellow {
+    border: 1px solid #f0c438;
+}
+
+img {
+    image-rendering: pixelated !important;
+}
+
+.teko {
+    font-family: "Teko", sans-serif;
+}
+
+.roboto {
+    font-family: "Roboto", sans-serif;
+}
+
+.logo {
+    filter: invert(77%) sepia(7%) saturate(4346%) hue-rotate(174deg)
+        brightness(96%) contrast(84%) !important;
+}
+
+td {
+    vertical-align: middle;
+}
+
+.modal-body {
+    display: flex;
+    justify-content: center;
+}
